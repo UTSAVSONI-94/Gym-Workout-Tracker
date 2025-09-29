@@ -56,8 +56,9 @@ I'm always looking to improve this app. Some things I'm thinking about:
 
 ## Get in Touch
 
-If you have any questions, suggestions, or just want to chat about fitness and coding, feel free to reach out to me! You can find me at [your-email@example.com](mailto:shivanshvikramsingh764@gmail.com).
+If you have any questions, suggestions, or just want to chat about fitness and coding, feel free to reach out to me! You can find me at [your-email@example.com](mailto:utsavsonimrj@gmail.com).
 
 ## Thanks!
 
 Thanks for checking out my Fitness Tracker App. I hope it helps you on your fitness journey as much as it's helped me. Stay active and keep coding! 💻💪
+
